@@ -6,8 +6,8 @@ This repository contains SQL solutions to real-world analytical problems from pl
 
 - `easy/` – Beginner level questions
 - `medium/` – Intermediate level
-- `advanced/` – Complex analytical problems
-- `notes/` – SQL concepts and cheat sheets
+- `advanced/` – Complex analytical problems (future)
+- `notes/` – SQL concepts and cheat sheets (future)
 
 ## 🚀 Topics Covered
 
